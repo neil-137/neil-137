@@ -11,4 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about CS and I'll do my best to answer
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I can play the piano
+
+Education:
+
+- Name: Neil Almeida
+- Northeastern University - Khoury College of Computer Sciences
+- Candidate: Bachelor of Science in Computer Science with a minor in Music
+- Boston MA * Sept 2023 - May 2027
+
 -->
